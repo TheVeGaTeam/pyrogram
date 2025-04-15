@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://github.com/KurimuzonAkuma/pyrogram">
-        <img src="https://raw.githubusercontent.com/KurimuzonAkuma/kurigramartwork/master/kurigram-logo.png" alt="Pyrogram" width="128">
+    <a href="https://github.com/TheVeGaTeam/pyrogram">
+        <img src="https://raw.githubusercontent.com/TheVeGaTeam/kurigramartwork/master/kurigram-logo.png" alt="Pyrogram" width="128">
     </a>
     <br>
     <b>Telegram MTProto API Framework for Python</b>
@@ -13,11 +13,11 @@
         Documentation
     </a>
     •
-    <a href="https://t.me/kurigram_news">
+    <a href="https://t.me/VeGaXOne">
         News
     </a>
     •
-    <a href="https://t.me/kurigram_chat">
+    <a href="https://t.me/G_VaGa">
         Chat
     </a>
 </p>
@@ -51,7 +51,7 @@ identity (bot API alternative) using Python.
 
 If you'd like to support my fork, you can consider:
 
-- `kurimuzonakuma.ton` - TON
+- `TheVeGaTeam.ton` - TON
 - `TCbZ7CSpTvTJ6rno2eoWWYBx7hmYF75wk3` - USDT TRC20
 
 ### Key Features
@@ -69,17 +69,17 @@ If you'd like to support my fork, you can consider:
 Stable version
 
 ``` bash
-pip3 install kurigram
+pip3 install vegagram
 ```
 
 Dev version
 ``` bash
-pip3 install https://github.com/KurimuzonAkuma/pyrogram/archive/dev.zip --force-reinstall
+pip3 install https://github.com/TheVeGaTeam/pyrogram/archive/dev.zip --force-reinstall
 ```
 
 ### Resources
 
 - Check out the [docs](https://docs.kurigram.live) to learn more about Pyrogram, get started right
 away and discover more in-depth material for building your client applications.
-- Join the [official channel](https://t.me/kurigram_news) and stay tuned for news, updates and announcements.
-- Join the [official chat](https://t.me/kurigram_chat) to communicate with people.
+- Join the [official channel](https://t.me/VeGaXOne) and stay tuned for news, updates and announcements.
+- Join the [official chat](https://t.me/G_VaGa) to communicate with people.
